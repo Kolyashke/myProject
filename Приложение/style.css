@@ -1,0 +1,35 @@
+img {
+	width: 400px; 
+	height: 300px; 
+	border: none;
+}
+
+h1 {
+text-shadow: 2px 2px 2px grey;
+transition: 0.2s ease;
+font-style: oblique;
+text-decoration: line-through;
+text-indent: 30px;}
+
+}
+
+h1:hover {
+text-shadow: 7px 7px 7px grey;
+transition: 0.2s ease;
+}
+
+a:link { color: brown;
+	text-decoration: none;
+}
+
+a:hover { color: green;
+	;
+}
+
+a:visited { color: yellow;
+	
+}
+
+a:active { color: red;
+	
+}
